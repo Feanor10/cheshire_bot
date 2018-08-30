@@ -1,3 +1,2 @@
 pytelegrambotapi
-sqlite3
 pika
