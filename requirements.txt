@@ -1,4 +1,3 @@
-[packages]
 pytelegrambotapi
 sqlite3
 pika
